@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>College</label>
+	</settings>
+	<users>
+		<user>
+			<path>College2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>College.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>College</label>
+	</settings>
+	<users>
+		<user>
+			<path>College.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>College.jcp</path>
+		</project>
+	</projects>
+</workspace>
